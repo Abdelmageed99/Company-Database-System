@@ -1,0 +1,2 @@
+Scaffold-DbContext "Connection String of existing database" 
+-outputdir Models -contextdir Data -context ApplicationDbContext -schemas dbo
